@@ -3,7 +3,7 @@
 ---
 
 #### Switch Statement
-* Switch Statement Theory [Source](/sample/sample_switch.md)
-* `switch` statement example [Source](/sample/SampleSwitch.java)
+* Switch Statement Theory [[Source](/sample/sample_switch.md)]
+* `switch` statement example [[Source](/sample/SampleSwitch.java)]
 
 ---
